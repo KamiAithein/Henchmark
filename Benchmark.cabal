@@ -26,6 +26,8 @@ source-repository head
 library
   exposed-modules:
       Benchmark
+      Common
+      Timing
   other-modules:
       Paths_Benchmark
   hs-source-dirs:
